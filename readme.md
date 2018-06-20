@@ -1,3 +1,8 @@
+###### 其它更新文档：
+
+* *[es6](https://github.com/woai30231/es6-note)*
+* *[canvas](https://github.com/woai30231/canvas-note)*
+
 ## 前言
 
 *   不知不觉在前端领域工作已经有一段时间了，一直有种想把某些在平时使用javascript过程中应该而没有使用的技术记录下来的想法！主要是出于这两个原因：1）优化自己写过的javascript代码，这在大一点的项目尤其重要；2）帮助自己加深记忆和理解，一种技术只有你把握它的原理之后才能使用起来得心应手。
@@ -47,3 +52,7 @@
 * **[告诉你，在javascript中event loop到底是什么！](https://github.com/woai30231/JavascriptDetails/tree/master/16/readme.md)**
 
 * **[简单的说一下对比一下vue、angular1、react之间的区别](https://github.com/woai30231/JavascriptDetails/tree/master/17/readme.md)**
+
+* **[怎么理解js中的防抖和节流、限制调用频率](https://github.com/woai30231/JavascriptDetails/tree/master/18/readme.md)**
+
+* **[认识浏览器的history API](https://github.com/woai30231/JavascriptDetails/tree/master/19/readme.md)**
